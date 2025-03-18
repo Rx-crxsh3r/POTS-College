@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-22", // Path to JDK 22
+    "java.project.sourcePaths": ["src/main/java"], // Source directory
+    "java.project.outputPath": "target/classes", // Output directory for compiled classes
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar" // Add any external libraries here
+    ]
+}

@@ -1,0 +1,16 @@
+SUP001,Global Electronics,Electronics Supplier,Active,global.electronics@example.com
+SUP002,ABC Suppliers,Supply of Electronics,Active,abc.suppliers@example.com
+SUP003,YZ Suppliers,Supply of Furniture,Active,yz.suppliers@example.com
+SUP004,Fast Foods,Food and Beverages Supplier,Active,fast.foods@example.com
+SUP005,Medicure Supplies,Medical Equipment Supplier,Active,medicure.supplies@example.com
+SUP006,GreenFields,Organic Food Supplier,Active,greenfields@example.com
+SUP007,TechVerse,IT Equipment Supplier,Active,techverse@example.com
+SUP008,FurniCo,Office Furniture Supplier,Active,furnico@example.com
+SUP009,SmartTools,Hardware Tools Supplier,Active,smarttools@example.com
+SUP010,HomeComfort,Home Appliances Supplier,Active,homecomfort@example.com
+SUP011,PowerGrid,Energy Equipment Supplier,Active,powergrid@example.com
+SUP012,BookNest,Books and Stationery Supplier,Active,booknest@example.com
+SUP013,StyleWear,Clothing and Textiles Supplier,Active,stylewear@example.com
+SUP014,AutoParts World,Automobile Parts Supplier,Active,autoparts.world@example.com
+SUP015,WorldPharma,Pharmaceutical Supplier,Active,worldpharma@example.com
+SUP016,EnviroEquip,Environmental Equipment Supplier,Active,enviroequip@example.com

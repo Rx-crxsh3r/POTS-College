@@ -1,0 +1,8 @@
+58150,Muhammad,FM58150,password@58150,Finance Manager
+28440,Ali,IM28440,password@28440,Inventory Manager
+82838,Salah,PM82838,password@82838,Purchase Manager
+94298,Ahmed,admin,admin,Administrator
+94083,Mike,Mike123,123,Purchase Manager
+80953,user,IM80953,password@80953,Inventory Manager
+34406,user,user12,user1,Sales Manager
+21341,Khalid,FM21341,password@21341,Finance Manager

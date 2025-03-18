@@ -1,0 +1,9 @@
+REQ002,ITM013,SUP001,45,PM,test,Approved,true
+REQ003,ITM013,SUP001,455,PM,test2,Approved,true
+REQ004,ITM002,Blender,10,User,13-12-2024,Approved,true
+REQ005,ITM002,Blender,22,null,13-12-2024,Rejected,false
+REQ006,ITM002,Blender,10,Sales Manager,13-12-2024,Approved,true
+REQ007,ITM001,SUP003,77,Purchase Manager,hjhj,Approved,true
+REQ008,ITM002,Blender,13,Sales Manager,14-12-2024,Approved,true
+REQ009,ITM003,SUP004,23,Purchase Manager,14-12-2024,Approved,true
+REQ010,ITM001,SUP003,77,Purchase Manager,14-12-2024,Approved,true

@@ -1,0 +1,15 @@
+ITM001,Electric Kettle,SUP003,1.5L stainless steel kettle,Home Appliances,49.99,110,20,Pieces,2024-12-06,Active
+ITM002,Manual Kettle,SUP001,1.4L stainless steel kettle,Home Appliances,49.99,112,20,Pieces,2024-12-06,Active
+ITM003,Flying Kettle,SUP002,1.4L stainless steel kettle,Home Appliances,49.99,130,20,Pieces,2024-12-06,Active
+ITM004,Swimming Kettle,SUP003,1.4L stainless steel kettle,Home Appliances,49.99,54,20,Pieces,2024-12-06,Active
+ITM005,Bulletproof Kettle,SUP004,1.4L platinum kettle,Home Appliances,100.0,20,5,Pieces,2024-12-06,Active
+ITM006,Electric Teapot,SUP005,1.2L ceramic teapot,Home Appliances,59.99,75,15,Pieces,2024-12-06,Active  
+ITM007,Glass Kettle,SUP006,1.5L glass kettle,Home Appliances,39.99,90,25,Pieces,2024-12-06,Active  
+ITM008,Travel Kettle,SUP007,0.8L travel kettle,Home Appliances,29.99,60,30,Pieces,2024-12-06,Active  
+ITM009,Smart Kettle,SUP008,1.5L smart kettle,Home Appliances,79.99,40,10,Pieces,2024-12-06,Active  
+ITM010,Double Boiler Kettle,SUP009,1.6L double boiler kettle,Home Appliances,89.99,50,8,Pieces,2024-12-06,Active  
+ITM011,Cordless Kettle,SUP010,1.7L cordless kettle,Home Appliances,69.99,80,12,Pieces,2024-12-06,Active  
+ITM012,Stovetop Kettle,SUP011,1.3L stovetop kettle,Home Appliances,34.99,110,20,Pieces,2024-12-06,Active  
+ITM013,Heavy-Duty Kettle,SUP012,1.5L heavy-duty kettle,Home Appliances,99.99,65,5,Pieces,2024-12-06,Active  
+ITM014,Electric Coffee Kettle,SUP013,1.2L electric coffee kettle,Home Appliances,74.99,55,18,Pieces,2024-12-06,Active  
+ITM015,Compact Kettle,SUP014,1.0L compact kettle,Home Appliances,24.99,150,40,Pieces,2024-12-06,Active
