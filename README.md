@@ -6,11 +6,11 @@ POTS (Procurement Order Tracking System) is a comprehensive software solution de
 <h2 align="left">🚀Features:</h2>
 
 ✅ User Authentication – Secure login system with role-based access control for: <br>
-    🔹 Sales Managers - Ali al-ameri <br>
-    🔹 Purchase Managers - Abdullah Bahbary <br>
-    🔹 Inventory Managers - Ahmed Baflah  <br>
-    🔹 Finance Managers - Mohammad Al-meflehi <br>
-    🔹 Administrators - Basem Ghasan <br>
+    🔹 Sales Managers - Ali al-ameri  [@aliahmed-sys](https://www.github.com/aliahmed-sys) <br> 
+    🔹 Purchase Managers - Abdullah Bahbary  [@Abdull0h3](https://www.github.com/Abdull0h3) <br>
+    🔹 Inventory Managers - Ahmed Baflah  [@Rx-crxsh3r](https://www.github.com/Rx-crxsh3r) <br>
+    🔹 Finance Managers - Mohammad Al-meflehi  [@ALMAFLEHI](https://www.github.com/ALMAFLEHI) <br>
+    🔹 Administrators - Basem Ghasan  [@BasemGhasan](https://www.github.com/BasemGhasan) <br>
 
 ✅ Purchase Requisition Management – Create, view, and manage purchase requisitions effortlessly.
 
