@@ -1,4 +1,4 @@
-POTS (Procurement Order Tracking System) is a comprehensive software solution designed to streamline and automate the procurement process. Developed by a team of five students, this system is built using Java and follows Object-Oriented Programming (OOP) principles to ensure modularity and scalability.
+POTS (Procurement Order Tracking System) is a comprehensive software solution designed to streamline and automate the procurement process. Developed by a team of five students, this system is built using Java and follows Object-Oriented Programming (OOP) principles to ensure modularity and scalability. This project was originally created using netbeans.
 
 *__📌 Fun Fact: This project earned us an A+! 🎉__*
 
